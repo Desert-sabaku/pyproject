@@ -1,0 +1,12 @@
+load first name list
+load last name list
+choose a first name randomly
+assign to variable
+choose a last name randomly
+
+show a name as red font
+ask user if playing again
+if user wants to play again:
+    continue
+if user wants to stop:
+    end
